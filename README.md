@@ -1,2 +1,1 @@
-# ieee-26
-PEC with logical noise models
+# IEEE Quantum Week 2026: Probabilistic error cancellation with logical noise models
