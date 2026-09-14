@@ -1,8 +1,8 @@
 networkx
 numpy
-qiskit
+qiskit[visualization]
 qiskit-ibm-runtime[visualization]
 samplomatic
 qiskit-mitigation
-qiskit-noise-learning @ git+https://github.com/Qiskit/qiskit-noise-learning.git@main
+qiskit-noise-learning @ git+https://github.com/Qiskit/qiskit-noise-learning.git@ieee-demo-2026
 matplotlib
